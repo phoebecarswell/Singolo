@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  background-color: #f2f2f2;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+.header{
+  background-color: #2D2F38;
+  height: 90px;
+  border-bottom: 6px solid #323746
+}
+
+.nav {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+ color: white;
+ }
+
+ .logo {
+   float: left;
+   font-size: 1.4rem;
+   margin-top: 35px;
+
+ }
+
+.links {
+  float: right;
+  margin-top: 40px;
+  font-size: 0.75rem;
+  color: #4B4E61
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.salmon {
+  color: #F16C65;
+}
+
+.banner {
+  background-color: #F16C65;
+  text-align: center;
+  padding: 35px 0;
+}
+
+.services {
+  color: #666d89;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  height: 460px;
+}
+
+.serviceicons {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+.one {
+  color: #666d89;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 320px;
+  float: left;
+}
+.one img {
+  float: left;
+}
+.one h3 {
+  margin-left: 97px;
+}
+
+
+
+.two {
+  color: #666d89;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 320px;
+  float: left;
+}
+.two img {
+  float: left;
+}
+
+.two h3 {
+  margin-left: 85px;
+}
+
+
+.three {
+  color: #666d89;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 320px;
+  float: left;
+
+}
+
+.three img {
+  float: left;
+}
+
+.three h3 {
+  margin-left: 80px;
+}
+
+.portfolio {
+  margin-left: auto;
+  margin-right: auto;
+  height: 800px;
+  background-color: #2d303a;
+  color: #666d89;
+}
+
+.portfolio h1 {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.portfolio p {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.portfolio img {
+  float: left;
+  width: 960px;
+  margin-left: 160px;
+  margin-top: 30px;
+}
+
+.aboutus {
+  height: 733px;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #666d89;
+}
+
+.Adam {
+  width: 300px;
+  margin-left: 20px;
+  margin-right: auto;
+  float: left;
+}
+
+.Desmond {
+  width: 300px;
+  margin-left: 20px;
+  margin-right: auto;
+  float: left;
+}
+
+.scholara {
+  width: 300px;
+  margin-left: 20px;
+  margin-right: auto;
+  float: left;
+}
+
+.quote {
+  height: 620px;
+  background-color: #f06c64;
+  color: #f0d8d9;
+}
+
+.quotetext {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.end {
+  height: 76px;
+  background-color: #2d303a;
+  color: #595f77;
+}
+
+.copyright {
+  margin-left: 40px;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+.end img {
+ float: right;
+}
+
+@media screen and (max-width: 610px) {
+.logo {
+  float: none;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 20px;
+}
+.links {
+  float: none;
+  margin-top: 10px;
+  text-align: center;
+}
+
+
+
+}
